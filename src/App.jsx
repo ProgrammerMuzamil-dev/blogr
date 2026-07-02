@@ -3,7 +3,7 @@ import Header from "./components/header/Header";
 import SectionOne from "./components/sections/SectionOne";
 import SectionSecond from "./components/sections/SectionSecond";
 import SectionThird from "./components/sections/SectionThird";
-import Footer from "./components/footer/footer";
+import Footer from "./components/footer/Footer.jsx";
 
 function App() {
   return (
