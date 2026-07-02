@@ -4,7 +4,7 @@ function SectionThird() {
   return (
     <>
       <div className="flex mt-36">
-        <div className="flex items-center justify-start pl-[clamp(24px,6vw,96px)] flex-1 overflow-hidden">
+        <div className="flex items-center  justify-start pl-[clamp(24px,6vw,96px)] flex-1 overflow-hidden">
           <img
             src="../images/illustration-laptop-desktop.svg"
             alt="laptopimg"

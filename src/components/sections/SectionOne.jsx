@@ -4,7 +4,7 @@ function SectionOne() {
   return (
     <>
       <div className="index-1">
-        <h1 className="font-bold text-center text-7xl text-blue-950 pt-36">
+        <h1 className="overflow-hidden font-bold text-center text-7xl text-blue-950 pt-36">
           Designed for the future{" "}
         </h1>
         <div className="flex flex-row-reverse max-w-fit">

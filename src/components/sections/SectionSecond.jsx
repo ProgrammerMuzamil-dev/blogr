@@ -3,7 +3,7 @@ import React from "react";
 function SectionSecond() {
   return (
     <>
-      <div className="flex flex-row items-center index-3 mt-52 max-h-60 bg-gradient-to-tr from-gray-800 to-gray-500 rounded-bl-3xl rounded-tr-3xl">
+      <div className="flex flex-row items-center overflow-hidden index-3 mt-52 max-h-60 bg-gradient-to-tr from-gray-800 to-gray-500 rounded-bl-3xl rounded-tr-3xl">
         <div className="relative w-full">
           <img src="../images/illustration-phones.svg" alt="phoneImg" />
         </div>

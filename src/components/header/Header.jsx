@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
   return (
     <>
-      <div className="bg-gradient-to-bl from-red-600 to-red-300 rounded-bl-3xl">
+      <div className="overflow-hidden bg-gradient-to-bl from-red-600 to-red-300 rounded-bl-3xl">
         <div className="flex flex-col">
           <div className="flex flex-row justify-around mt-5 ">
             <div className="flex flex-row items-center gap-8 text-white">
